@@ -6,6 +6,12 @@ Another thing would be access to new and exciting features as the Operating syst
 
 Search
 
-Searching is a function of the operating system that allows us to easily find items that we may not know their exact location
-searching can be done within one or multiple folders
-searching will take a lot longer depending on how wide the you are searching, example the whole hard drive. 
+Searching is a function of the operating system that allows us to easily find items that we may not know their exact location.
+Searching can be done within one or multiple folders.
+Searching will take a lot longer depending on how wide you are searching, example the whole hard drive. 
+
+Installing/Removing apps
+
+Installing apps allows you to increase the functionality of the operating system. 
+Removing apps allows you to clear space to applications or items that will benefit you more.
+Certain apps like Microsoft office can install multiple apps at once.
