@@ -1,4 +1,11 @@
 Updating
+
 A Major feature of modern operating systems is the ability to easily update with only needing an internet connection.
 One thing this will allow is to make sure you are constantly secure against constant digital threats.
 Another thing would be access to new and exciting features as the Operating system evolves.
+
+Search
+
+Searching is a function of the operating system that allows us to easily find items that we may not know their exact location
+searching can be done within one or multiple folders
+searching will take a lot longer depending on how wide the you are searching, example the whole hard drive. 
